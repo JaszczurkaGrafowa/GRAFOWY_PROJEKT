@@ -4,7 +4,7 @@
 #include <iostream>
 
 #include"Graph.hpp"
-
+//zmiana
 int main()
 {
 	/*sf::Image image;
