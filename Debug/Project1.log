@@ -1,0 +1,69 @@
+﻿  Graph.cpp
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(17,34): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(18,34): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(19,35): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(20,35): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(24,35): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(29,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(64,72): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(64,39): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(78,73): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(78,39): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(79,73): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(79,39): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(97,73): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(97,39): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(98,73): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(98,39): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(105,67): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(105,48): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\mqt2019\Desktop\pro1\Project1\Graph.cpp(21): warning C4715: "getAngleByCoordinates”: niewszystkie ścieżki kodu zwracają wartość
+  Project1.vcxproj -> C:\Users\mqt2019\Desktop\pro1\Project1\Debug\Project1.exe
