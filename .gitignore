@@ -1,0 +1,10 @@
+Debug/
+Projekt PWI.sln
+Projekt PWI.vcxproj
+Projekt PWI.vcxproj.filters
+Projekt PWI.vcxproj.user
+sfml-audio-d-2.dll
+sfml-graphics-d-2.dll
+sfml-network-d-2.dll
+sfml-system-d-2.dll
+sfml-window-d-2.dll
